@@ -50,3 +50,5 @@ Enough crap, let's get started!
 9. In the victim's server, run the command !nuke
 10. If you don't want to ban all members, then run !softnuke
 11. Watch :)
+
+If you have any issues just join the discord server -- https://discord.gg/qxt6aC8U2F or create a github issue
