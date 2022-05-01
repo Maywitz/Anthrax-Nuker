@@ -12,7 +12,7 @@
 https://discord.gg/qxt6aC8U2F
 
 ```
-Join my discord server above for support and new projects!
+Join my discord server above for support and access to new projects!
 
 Made for educational purposes only :)
 
