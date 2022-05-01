@@ -2,7 +2,6 @@ import discord
 from discord.ext import commands
 from discord.ext.commands import bot
 from discord.ext.commands import get
-import asyncio
 
 token = "Put your discord bot token here, keep the quotes :)"
 my_id = 715385148941795458
