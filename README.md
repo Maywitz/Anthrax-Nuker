@@ -37,11 +37,12 @@ Enough crap, let's get started!
 
 # Usage
 1. Download and extract the files, make sure to have python installed
-2. In discord [developer portal](https://discord.com/developers/applications), create a new application
-3. Click discord bot, create a discord bot, press reset token, and copy paste the contents
-4. Change the developer_id to your discord account id if you don't want to get banned
-5. Paste the token into the value of token at the top of main.py
-6. Select all the intents below as shown in the image
+2. Open cmd of that directory and `pip install -r requirements.txt`
+3. In discord [developer portal](https://discord.com/developers/applications), create a new application
+4. Click discord bot, create a discord bot, press reset token, and copy paste the contents
+5. Change the developer_id to your discord account id if you don't want to get banned
+6. Paste the token into the value of token at the top of main.py
+7. Select all the intents below as shown in the image
 ![image](https://user-images.githubusercontent.com/63612884/166132340-18abc161-35a5-41fb-b1cd-22de7f2bf86a.png)
 6. Go to oauth, url generator, click bot, then under that administrator, and copy paste the oauth url
 7. Open the url and add the bot to the victim server
