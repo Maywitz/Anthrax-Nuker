@@ -36,3 +36,16 @@ This bot will not work without the following required permissions :
 Enough crap, let's get started!
 
 # Usage
+1. Download and extract the files, make sure to have python installed
+2. In discord [developer portal](https://discord.com/developers/applications), create a new application
+3. Click discord bot, create a discord bot, press reset token, and copy paste the contents
+4. Change the developer_id to your discord account id if you don't want to get banned
+5. Paste the token into the value of token at the top of main.py
+6. Select all the intents below as shown in the image
+![image](https://user-images.githubusercontent.com/63612884/166132340-18abc161-35a5-41fb-b1cd-22de7f2bf86a.png)
+6. Go to oauth, url generator, click bot, then under that administrator, and copy paste the oauth url
+7. Open the url and add the bot to the victim server
+8. Open cmd, navigate to the same directory as main.py, and enter `python main.py`
+9. In the victim's server, run the command !nuke
+10. If you don't want to ban all members, then run !softnuke
+11. Watch :)
