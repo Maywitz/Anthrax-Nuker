@@ -114,7 +114,7 @@ async def nuke(ctx):
                 print (channel.name + " has failed to be pinged")
                 
 @bot.command()
-async def nuke(ctx):
+async def nuke_no_ban(ctx):
 
     try:
         await ctx.message.delete()
